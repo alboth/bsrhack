@@ -54,3 +54,7 @@ https://alboth.github.io/bsrhack
 
 * Projekt und Materialien herunterladen: herunterladen: https://github.com/alboth/bsrhack/archive/master.zip
 
+## Design Inspirationen
+
+* https://www.jimdo.com/
+* https://colorlib.com/wp/one-page-website-templates/
