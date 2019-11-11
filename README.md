@@ -30,6 +30,12 @@ Thomas Alboth
 </body>
 </html>
 ```
+* **https://codepen.io** ist ein gutes Tool um HTML+CSS (+JS) auszuprobieren und anzeigen zu lassen
+
+### Farben
+
+* **https://coolors.com** ist ein nettes Tool zum aussuchen und anpassen einer eigenen Farbpalette
+* **http://paletton.com/** hat gute vordefinierte Paletten mit eigener Webseiten-Voransicht
 
 ### Bilder
 
@@ -42,6 +48,9 @@ Hier kannst Du Bilder finden. Aber Achtung, man muss oft schreiben, woher man di
 * https://openphoto.net/
 * Wikipedia 
 
-## Github-Pages URL
+## Materialien
 
 https://alboth.github.io/bsrhack
+
+* Projekt und Materialien herunterladen: herunterladen: https://github.com/alboth/bsrhack/archive/master.zip
+
